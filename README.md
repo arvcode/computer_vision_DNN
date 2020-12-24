@@ -6,7 +6,7 @@ Computer Vision + Deep Learning Practice Repository:
 ----------------------
 This repo consists of Jupyter notebook(s) with Computer vision practice exercises.
 
-The exercises are created from the contents of
+The exercises are for practicing the materials from
 1. Udacity 	- Computer Vision Nano Degree
 2. Udemy 	- Hands-on Computer Vision with OpenCV4, Keras and TensorFlow2.
 ----------------------
