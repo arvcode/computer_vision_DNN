@@ -15,7 +15,9 @@ The exercises are for practicing the materials from
 --------------------
 For setting up the machine, please follow
 https://github.com/udacity/CVND_Exercises
+
 The above link sets up PyTorch and OpenCV.
+
 For TensorFlow and Keras, from your miniconda environment, please do
 pip install --upgrade pip
 
