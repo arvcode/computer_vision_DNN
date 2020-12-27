@@ -15,4 +15,14 @@ The exercises are for practicing the materials from
 --------------------
 For setting up the machine, please follow
 https://github.com/udacity/CVND_Exercises
+The above link sets up PyTorch and OpenCV.
+For TensorFlow and Keras, from your miniconda environment, please do
+pip install --upgrade pip
 
+Download  Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019
+ - https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
+
+pip install --upgrade tensorflow
+
+
+import tensorflow as tf
