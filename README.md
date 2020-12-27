@@ -26,5 +26,5 @@ Download  Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 
 
 pip install --upgrade tensorflow
 
+The steps will update OpenCV to version 4.
 
-import tensorflow as tf
